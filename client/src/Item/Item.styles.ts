@@ -6,7 +6,7 @@ export const Wrapper = styled.div`
   flex-direction: column;
   width: 100%;
   border: 1px solid lightblue;
-  border-raduis: 20px;
+  border-radius: 20px;
   height: 100%;
 
   button {
